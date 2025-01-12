@@ -1,2 +1,2 @@
 # Python-Basic-Assignment.
-This is the Paython Basic Assignment for Module 2.
+This is the Python Basic Assignment for Module 2.
